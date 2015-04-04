@@ -1,0 +1,14 @@
+/*.classpath
+/*.project
+**/.settings
+**/target
+/*.iml
+/northwind-dao/*.classpath
+/northwind-dao/*.project
+/northwind-dao/*.iml
+**/northwind-dao/target
+/northwind-domain/*.classpath
+/northwind-domain/*.project
+/northwind-domain/*.iml
+**/northwind-domain/target
+
